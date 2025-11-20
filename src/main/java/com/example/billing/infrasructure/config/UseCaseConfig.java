@@ -1,4 +1,4 @@
-package com.example.billing.infrasructure.config;
+package com.example.billing.infrastructure.config;
 
 import com.example.billing.application.usecase.CalculateInvoiceUseCase;
 import com.example.billing.domain.service.BillingDomainService;
